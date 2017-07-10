@@ -51,7 +51,7 @@ if ( alive player ) then {
 	<t size='20' font='PuristaMedium' color='%2'>%3<br />Spare change is much appreciated!</t>", _generaltitlecolor, _generaltextcolor, _donatelink], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 15;
 	
 	[format ["<t size='30' font='OrbitronMedium' color='%1'>Server Rules!</t><br />
-	<t size='22' font='PuristaMedium' color='%1'>Our server rules are displayed and updated on our Forums!</t>", _importanttitlecolor, _importanttextcolor], _importanttoastcolor] call ExileClient_gui_toaster_addToast; sleep 15;
+	<t size='22' font='PuristaMedium' color='%2'>Our server rules are displayed and updated on our Forums!</t>", _importanttitlecolor, _importanttextcolor], _importanttoastcolor] call ExileClient_gui_toaster_addToast; sleep 15;
 	
 	[format ["<t size='30' font='OrbitronMedium' color='%1'>Server Rules!</t><br />
 	<t size='22' font='PuristaMedium' color='%2'>There is a link to the rules in the XM8 app >> 'Rules and Info'</t>", _importanttitlecolor, _importanttextcolor], _importanttoastcolor] call ExileClient_gui_toaster_addToast; sleep 15;
