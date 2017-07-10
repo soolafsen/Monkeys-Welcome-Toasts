@@ -19,6 +19,7 @@ _teamspeakip = "ts3.gamingatdeathsdoor.com";
 _donatelink = "donate.gamingatdeathsdoor.com";
 
 //	The colors can be edited below and there is a great tool I recommend you use to get the color codes designed by |GITS|Root here: https://arma3rgb.com
+//	^ Website is in beta so dont judge
 
 //General toast colors for normal messages
 
