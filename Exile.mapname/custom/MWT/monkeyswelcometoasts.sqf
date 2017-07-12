@@ -8,7 +8,7 @@
 	my download links on the Exile Forums.
 */
 
-private ["_servername","_serverclantag","_website","_teamspeakip","_donatelink","_generaltitlecolor","_generaltextcolor,"_generaltoastcolor","_importanttitlecolor","_importanttextcolor","_importanttoastcolor"];
+private ["_servername","_serverclantag","_website","_teamspeakip","_donatelink","_generaltitlecolor","_generaltextcolor","_generaltoastcolor","_importanttitlecolor","_importanttextcolor","_importanttoastcolor"];
 
 //	Modify the below variables to what you want to be displayed as messages to players.
 
