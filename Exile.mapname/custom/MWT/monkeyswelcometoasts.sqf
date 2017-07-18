@@ -33,7 +33,7 @@ _importanttitlecolor = "#ff0000";
 _importanttextcolor = "#6aff2b"; 
 _importanttoastcolor = [1, 0.39, 0.17, 1];
 
-waitUntil{!isNull (findDisplay 46)};  
+waitUntil{!isNull findDisplay 46 && !isNil 'ExileClientLoadedIn' && getPlayerUID player != ''};  
 
 if ( alive player ) then {
 
