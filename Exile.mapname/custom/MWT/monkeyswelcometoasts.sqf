@@ -87,5 +87,5 @@ if ( alive player ) then {
 	<t size='22' font='PuristaMedium' color='%2'>Crates can be loaded into certain vehicles and unloaded, then dropped infront of the waste dump to sell the contents! Grab the money from it after!</t>", _generaltitlecolor, _generaltextcolor], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 300;
 	
 	[format ["<t size='30' font='OrbitronMedium' color='%1'>Lastly!</t><br /> 
-	<t size='22' font='PuristaMedium' color='%2'>Thank you for playing [GADD], %3! We hope to see you more often!</t>", _generaltitlecolor, _generaltextcolor, name player], _generaltoastcolor] call ExileClient_gui_toaster_addToast;
+	<t size='22' font='PuristaMedium' color='%2'>Thank you for playing %3, %4! We hope to see you more often!</t>", _generaltitlecolor, _generaltextcolor, _serverclantag, name player], _generaltoastcolor] call ExileClient_gui_toaster_addToast;
 };
