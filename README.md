@@ -11,6 +11,8 @@ Welcome messages for Exile in the form of Exile Toasts
 	my download links on the Exile Forums.
 */
 
+Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
+
 1. If you do not have one already, copy the entire custom folder to your Exile.mapname folder, if you do, drag MWT into the custom folder etc.
 2. Copy code from the initPlayerLocal.sqf into yours (Must be positioned like mine.)
 3. Cope code from config.cpp into yours too. (Thanks Kuplion for the help on the override)
